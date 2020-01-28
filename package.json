@@ -1,5 +1,5 @@
 {
-  "name": "reactjs-boilerplate",
+  "name": "reactjs-boilerplate without CRA",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,14 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajiejot/reactjs-boilerplate.git"
+    "url": ""
   },
-  "author": "ajie",
+  "author": "Shankhadeep Bhadra",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ajiejot/reactjs-boilerplate/issues"
-  },
-  "homepage": "https://github.com/ajiejot/reactjs-boilerplate#readme",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
